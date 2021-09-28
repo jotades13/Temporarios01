@@ -1,0 +1,252 @@
+[
+    {
+        "numero": 1,
+        "numContrato": "10/2021",
+        "status": "ATIVO",
+        "ano": 2021,
+        "vigenciainicio": null,
+        "vigenciafinal": null,
+        "contatos": null,
+        "vlrTotalPlantoes": null,
+        "qtdTotalPlantoes": null,
+        "vlrPlantao": 1200.00,
+        "esfera": "ESTADUAL",
+        "tipoContrato": "ESCALA",
+        "usuarioCadastroAlteracao": null,
+        "cooperativa": {
+            "codigo": 1,
+            "matriz": true,
+            "razaoSocial": "COOPMEDRN MATRIZ",
+            "fantasia": "COOPMEDRN",
+            "inativa": false,
+            "cnpj": "08540064000188",
+            "dataFundacao": null,
+            "inscMunicipal": null,
+            "regJucern": null,
+            "fones": null,
+            "email": null,
+            "site": null,
+            "issSN": null,
+            "issValor": null,
+            "simples": null,
+            "dataAceitacao": null,
+            "banco": null,
+            "endereco": null,
+            "contaBancaria": null,
+            "usuarioCadastroAlteracao": null
+        },
+        "fontePagadora": {
+            "codigo": 2,
+            "fantasia": "Manuais Pagadora",
+            "nomeReduzido": "Manuais        ",
+            "cnpj": "22536833000104",
+            "endereco": {
+                "logradouro": "Santa Rita",
+                "numero": "5510",
+                "complemento": "Anexo 10",
+                "bairro": "Planalto",
+                "cidade": "Palmas",
+                "uf": "TO",
+                "cep": "68796565"
+            },
+            "usuarioCadastroAlteracao": null
+        },
+        "contratoEntidade": [
+            {
+                "codigo": 2,
+                "unidade": {
+                    "codigo": 2,
+                    "cnes": "8064110",
+                    "nome": "Unidade De Saúde Básica",
+                    "nomeReduzido": "Unidade Básica",
+                    "fones": "6054229049",
+                    "contato": "6054229049",
+                    "cnpj": "15916843000100",
+                    "endereco": {
+                        "logradouro": "Quinze de Novembro",
+                        "numero": "4866",
+                        "complemento": "Aeroporto 9",
+                        "bairro": "Boa Vista",
+                        "cidade": "Aracruz",
+                        "uf": "ES",
+                        "cep": "57099983"
+                    },
+                    "usuarioCadastroAlteracao": null
+                },
+                "especialidade": {
+                    "codigo": 1,
+                    "descricao": "Trata invasores alérgenos e formas def organismo",
+                    "nomereduzido": "Alergologistav"
+                },
+                "valorplantao": 1250.00
+            },
+            {
+                "codigo": 1,
+                "unidade": {
+                    "codigo": 1,
+                    "cnes": "2314670",
+                    "nome": "OneStep Unidade De Saúde",
+                    "nomeReduzido": "OneStep",
+                    "fones": "4654966921",
+                    "contato": "4654966921",
+                    "cnpj": "80276884000140",
+                    "endereco": {
+                        "logradouro": "São Sebastião",
+                        "numero": "9880",
+                        "complemento": "Andar 5",
+                        "bairro": "Boa Vista",
+                        "cidade": "Brasília",
+                        "uf": "DF",
+                        "cep": "72943208"
+                    },
+                    "usuarioCadastroAlteracao": null
+                },
+                "especialidade": {
+                    "codigo": 1,
+                    "descricao": "Trata invasores alérgenos e formas def organismo",
+                    "nomereduzido": "Alergologistav"
+                },
+                "valorplantao": 1350.00
+            },
+            {
+                "codigo": 4,
+                "unidade": {
+                    "codigo": 2,
+                    "cnes": "8064110",
+                    "nome": "Unidade De Saúde Básica",
+                    "nomeReduzido": "Unidade Básica",
+                    "fones": "6054229049",
+                    "contato": "6054229049",
+                    "cnpj": "15916843000100",
+                    "endereco": {
+                        "logradouro": "Quinze de Novembro",
+                        "numero": "4866",
+                        "complemento": "Aeroporto 9",
+                        "bairro": "Boa Vista",
+                        "cidade": "Aracruz",
+                        "uf": "ES",
+                        "cep": "57099983"
+                    },
+                    "usuarioCadastroAlteracao": null
+                },
+                "especialidade": {
+                    "codigo": 2,
+                    "descricao": "Trata de doenças e problemas relacionados ao coração e à circulação sanguínea",
+                    "nomereduzido": "Cardiologista"
+                },
+                "valorplantao": 1300.00
+            },
+            {
+                "codigo": 3,
+                "unidade": {
+                    "codigo": 1,
+                    "cnes": "2314670",
+                    "nome": "OneStep Unidade De Saúde",
+                    "nomeReduzido": "OneStep",
+                    "fones": "4654966921",
+                    "contato": "4654966921",
+                    "cnpj": "80276884000140",
+                    "endereco": {
+                        "logradouro": "São Sebastião",
+                        "numero": "9880",
+                        "complemento": "Andar 5",
+                        "bairro": "Boa Vista",
+                        "cidade": "Brasília",
+                        "uf": "DF",
+                        "cep": "72943208"
+                    },
+                    "usuarioCadastroAlteracao": null
+                },
+                "especialidade": {
+                    "codigo": 2,
+                    "descricao": "Trata de doenças e problemas relacionados ao coração e à circulação sanguínea",
+                    "nomereduzido": "Cardiologista"
+                },
+                "valorplantao": 1100.00
+            }
+        ]
+    },
+    {
+        "numero": 2,
+        "numContrato": "07/2021",
+        "status": "ATIVO",
+        "ano": 2021,
+        "vigenciainicio": null,
+        "vigenciafinal": null,
+        "contatos": null,
+        "vlrTotalPlantoes": null,
+        "qtdTotalPlantoes": null,
+        "vlrPlantao": 1350.00,
+        "esfera": "MUNICIPAL",
+        "tipoContrato": "ESCALA",
+        "usuarioCadastroAlteracao": null,
+        "cooperativa": {
+            "codigo": 2,
+            "matriz": false,
+            "razaoSocial": "COOPMED FILIAL",
+            "fantasia": "FILIAL",
+            "inativa": false,
+            "cnpj": "08540064000188",
+            "dataFundacao": null,
+            "inscMunicipal": null,
+            "regJucern": null,
+            "fones": null,
+            "email": null,
+            "site": null,
+            "issSN": null,
+            "issValor": null,
+            "simples": null,
+            "dataAceitacao": null,
+            "banco": null,
+            "endereco": null,
+            "contaBancaria": null,
+            "usuarioCadastroAlteracao": null
+        },
+        "fontePagadora": {
+            "codigo": 1,
+            "fantasia": "Ligeiras Pagadora",
+            "nomeReduzido": "Ligeiras       ",
+            "cnpj": "25203611000168",
+            "endereco": {
+                "logradouro": "Santa Catarina",
+                "numero": "2123",
+                "complemento": "Fundos 8",
+                "bairro": "Boa Vista",
+                "cidade": "Santana",
+                "uf": "AP",
+                "cep": "46018414"
+            },
+            "usuarioCadastroAlteracao": null
+        },
+        "contratoEntidade": [
+            {
+                "codigo": 8,
+                "unidade": {
+                    "codigo": 1,
+                    "cnes": "2314670",
+                    "nome": "OneStep Unidade De Saúde",
+                    "nomeReduzido": "OneStep",
+                    "fones": "4654966921",
+                    "contato": "4654966921",
+                    "cnpj": "80276884000140",
+                    "endereco": {
+                        "logradouro": "São Sebastião",
+                        "numero": "9880",
+                        "complemento": "Andar 5",
+                        "bairro": "Boa Vista",
+                        "cidade": "Brasília",
+                        "uf": "DF",
+                        "cep": "72943208"
+                    },
+                    "usuarioCadastroAlteracao": null
+                },
+                "especialidade": {
+                    "codigo": 4,
+                    "descricao": "cuida de aspectos sistêmicos do organismo, sendo considerada um atendimento primário",
+                    "nomereduzido": "Clínica Médica"
+                },
+                "valorplantao": 1050.00
+            }
+        ]
+    }
+]
